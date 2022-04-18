@@ -1,0 +1,13 @@
+name: PIB_IDH
+title: PIB_IDH
+username:
+account: benleiva
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4490031
+bundleId: 5047341
+url: https://benleiva.shinyapps.io/PIB_IDH/
+when: 1632003039.21114
+lastSyncTime: 1632003039.21114
+asMultiple: FALSE
+asStatic: FALSE
